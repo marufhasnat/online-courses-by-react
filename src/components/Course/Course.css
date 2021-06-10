@@ -10,6 +10,9 @@
 }
 .courses-container .btn{
     box-shadow: none;
+    color: white !important;
+    background-color: #0f91bd !important;
+    border-color: #0f91bd !important;
 }
 .courses-container .btn:hover{
     box-shadow: none;

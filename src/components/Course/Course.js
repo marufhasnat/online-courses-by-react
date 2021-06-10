@@ -15,7 +15,7 @@ const Course = (props) => {
                     <h3>{name}</h3>
                     <h6>Instructor: {instructor}</h6>
                     <h5>Price: ${price}</h5>
-                    <button className="btn btn-primary" onClick={() => props.handleAddCourse(props.course)}>Enroll Now</button>  
+                    <button className="btn" onClick={() => props.handleAddCourse(props.course)}>Enroll Now</button>  
                 </div>
             </div>
         </div>
