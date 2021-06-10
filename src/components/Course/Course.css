@@ -1,0 +1,17 @@
+.courses-container{
+    text-align: left;
+}
+.courses-container h3{
+    font-weight: 700;
+    color: #0f91bd !important;
+}
+.courses-container h5,.courses-container h6{
+    margin: 15px 0;
+}
+.courses-container .btn{
+    box-shadow: none;
+}
+.courses-container .btn:hover{
+    box-shadow: none;
+    outline: none;
+}

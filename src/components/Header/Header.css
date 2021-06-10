@@ -1,0 +1,26 @@
+.container-fluid img{
+    width: 400px;
+}
+.container-fluid ul{
+    background-color: #474747 !important;
+}
+.container-fluid ul li a{
+    color: white !important;
+}
+.container-fluid ul li a.activate{
+    color: #33CCFF !important;
+}
+.container-fluid ul li a:hover{
+    color: #33CCFF !important;
+}
+ /*Extra small devices (portrait phones, less than 576px)*/
+ @media (max-width: 575.98px) {
+    .container-fluid img{
+        width: 300px;
+    }
+    .container-fluid ul{
+        display: block;
+        text-align: center;
+        padding: 10px;
+    }
+}

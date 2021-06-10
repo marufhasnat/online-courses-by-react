@@ -1,0 +1,15 @@
+.cart-details{
+    text-align: center;
+    border: 1px solid #0f91bd !important;
+    padding: 10px;
+}
+.cart-details h4{
+    font-weight: 700;
+    color: #0f91bd !important;
+}
+.cart-details h6{
+    margin: 25px 0 !important;
+}
+.cart-details h5{
+    font-weight: 700;
+}
